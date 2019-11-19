@@ -5,8 +5,8 @@ GET -> Verb
 HTTP/1.1 -> Protocol
 
 example:
-	GET /login HTTP/1.1
-	Host: https://twitter.com/login
+    GET /login HTTP/1.1
+    Host: https://twitter.com/login
 
 GET: used to send data back only (normally returns HTML or text or errors)
 POST: used to receive data
